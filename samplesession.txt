@@ -1,0 +1,25 @@
+
+~ ❯ git clone https://github.com/MatrixManAtYrService/challenge_prep
+
+~ ❯ cd challenge_prep
+
+~/challenge_prep ❯ sudo ./challenge_setup.sh
+
+~/challenge_prep ❯ ./view_stuff.sh
+
+~/challenge_prep ❯ ./do_thing.sh
+[2018-03-20 12:09:25] not installed
+
+~/challenge_prep ❯ sudo install_package.py
+
+~/challenge_prep ❯ ./do_thing.sh
+[2018-03-20 12:09:44] package installed
+
+~/challenge_prep ❯ ./view_stuff.sh
+[2018-03-20 12:09:25] not installed
+[2018-03-20 12:09:44] package installed
+
+~/challenge_prep ❯ sudo ./challenge_setup.sh
+
+~/challenge_prep ❯ ./view_stuff.sh
+
