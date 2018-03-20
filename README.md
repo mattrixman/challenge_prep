@@ -1,4 +1,4 @@
-# Super Awesome (Boring Edition)
+# A shell of a challenge
 
 This repo does not contain a coding challenge.  It contains the frame of a coding challenge.  Here you will find all of the stuff that makes the coding challenge easy to administer, with none of the actual guts of the challenge.
 
