@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import os
 import stat
+import requests
 
 # typically this would be versioned so it doesn't clobber old ones
 package = '/opt/clover/archive/package'
